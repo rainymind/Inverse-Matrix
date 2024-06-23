@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 
-// Function to print a matrix
+// Function to print a matrix.05
 void printMatrix(const std::vector<std::vector<int>>& matrix) {
     for (const auto& row : matrix) {
         for (int val : row) {
